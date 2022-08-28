@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cat Breeds</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">66556234-7a6a-4816-b116-28d4839c8430</string>
+    <string name="wiki">Wikipedia Url:</string>
+    <string name="description">description:</string>
+    <string name="origin">Origin:</string>
+    <string name="life_span">Life Span:</string>
+    <string name="dog_friendly">Dog Friendly:</string>
+    <string name="image_link">https://cdn2.thecatapi.com/images/</string>
+</resources>
